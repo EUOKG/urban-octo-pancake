@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=OkayG&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/OkayG?label=Follow&style=social)
 
-**Olá! Sou OkayG, um desenvolvedor apaixonado por criar plugins personalizados para redes de servidores Minecraft.**
+**Olá! Sou OkayG, um desenvolvedor apaixonado por criar plugins personalizados para redes de servidores Minecraft entre outros projetos.**
 
 ## 🛠️ Habilidades Técnicas
 
