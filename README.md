@@ -1,4 +1,4 @@
-# 💻 OkayG - Desenvolvedor de Plugins Minecraft
+# 💻 OkayG - Desenvolvedor de Plugins Java Minecraft
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OkayG&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/OkayG?label=Follow&style=social)
