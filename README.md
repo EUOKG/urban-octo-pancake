@@ -13,7 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=EUOKG&color=blueviolet" alt="Profile Views">
   <button style="background-color: #0366d6; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
     <img src="https://img.shields.io/github/followers/EUOKG?label=Follow&style=social" alt="GitHub followers">
-    GitHub followers
   </button>
 </a>
 
