@@ -1,11 +1,23 @@
+/**
+ * QuestListener - Classe responsável por ouvir eventos relacionados às quests.
+ * Criado por OkayG.
+ */
 public class QuestListener implements Listener {
 
     private final QuestManager questManager;
 
+    /**
+     * Construtor da classe QuestListener.
+     * @param questManager O gerenciador de quests.
+     */
     public QuestListener(QuestManager questManager) {
         this.questManager = questManager;
     }
 
+    /**
+     * Método chamado quando um jogador completa um objetivo de uma quest.
+     * @param event O evento relacionado à conclusão do objetivo.
+     */
     @EventHandler
     public void onPlayerCompleteObjective(PlayerCompleteObjectiveEvent event) {
         Player player = event.getPlayer();
