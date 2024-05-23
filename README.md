@@ -24,7 +24,7 @@
   <li><strong>Linguagens:</strong> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
   <li><strong>Desenvolvimento de Plugins:</strong> Spigot, Bukkit</li>
   <li><strong>Ferramentas e Tecnologias:</strong> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></li>
-  <li><strong>Áreas de Interesse:</strong> Gameplay Enhancement, Economia Virtual, Mini-Games, Automação de Servidores, Relações com GTA, Interesses na Área de Programação</li>
+  <li><strong>Áreas de Interesse:</strong> Gameplay Enhancement, Economia Virtual, Mini-Games, Automação de Servidores. </li>
 </ul>
 
 <h2>🚀 Projetos Destacados</h2>
