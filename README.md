@@ -7,7 +7,8 @@
   </button>
 </a>
 
-<p><strong>Olá! Sou OkayG, um desenvolvedor apaixonado por criar plugins personalizados para redes de servidores Minecraft.</strong></p>
+<br><strong>Olá! Sou OkayG, um desenvolvedor apaixonado. </br>
+<p><strong>Crio plugins personalizados para redes de servidores Minecraft dentre outros.</strong></p>
 
 <h2>🛠️ Habilidades Técnicas</h2>
 
@@ -59,11 +60,11 @@
 <h4>Comandos</h4>
 
 <ul>
-  <li><code>/quest criar <nome></code> - Cria uma nova quest.</li>
-  <li><code>/quest adicionarObjetivo <quest> <objetivo></code> - Adiciona um objetivo a uma quest.</li>
-  <li><code>/quest listar</code> - Lista todas as quests.</li>
-  <li><code>/quest iniciar <nome></code> - Inicia uma quest.</li>
-  <li><code>/quest progresso</code> - Verifica o progresso da quest atual.</li>
+  <li><code>/create quest <nome></code> - Cria uma nova quest.</li>
+  <li><code>/quest add Objetivo <quest> <objetivo></code> - Adiciona um objetivo a uma quest.</li>
+  <li><code>/quest listr</code> - Lista todas as quests.</li>
+  <li><code>/quest iniciate <nome></code> - Inicia uma quest.</li>
+  <li><code>/quest progress </code> - Verifica o progresso da quest atual.</li>
 </ul>
 
 <h4>Permissões</h4>
