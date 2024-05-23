@@ -9,8 +9,13 @@
 
 <h1>💻 OkayG - Desenvolvedor de Plugins Minecraft</h1>
 
-<img src="https://komarev.com/ghpvc/?username=OkayG&color=blueviolet" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/OkayG?label=Follow&style=social" alt="GitHub followers">
+<a href="https://github.com/EUOKG" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=EUOKG&color=blueviolet" alt="Profile Views">
+  <button style="background-color: #0366d6; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
+    <img src="https://img.shields.io/github/followers/EUOKG?label=Follow&style=social" alt="GitHub followers">
+    GitHub followers
+  </button>
+</a>
 
 <p><strong>Olá! Sou OkayG, um desenvolvedor apaixonado por criar plugins personalizados para redes de servidores Minecraft.</strong></p>
 
