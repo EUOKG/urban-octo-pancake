@@ -1,18 +1,36 @@
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>QuestListener - Classe responsável por ouvir eventos relacionados às quests</title>
-</head>
-<body>
-    <h1>QuestListener - Classe responsável por ouvir eventos relacionados às quests</h1>
-    <p>Criado por OkayG.</p>
+/**
+ * QuestListener - Classe responsável por ouvir eventos relacionados às quests.
+ * Criado por OkayG.
+ */
+public class QuestListener implements Listener {
 
-    <h2>Construtor da classe QuestListener</h2>
-    <p>O gerenciador de quests.</p>
+    private final QuestManager questManager;
 
-    <h2>Método chamado quando um jogador completa um objetivo de uma quest</h2>
-    <p>O evento relacionado à conclusão do objetivo.</p>
-</body>
-</html>
+    /**
+     * Construtor da classe QuestListener.
+     * @param questManager O gerenciador de quests.
+     */
+    public QuestListener(QuestManager questManager) {
+        this.questManager = questManager;
+    }
+
+    /**
+     * Método chamado quando um jogador completa um objetivo de uma quest.
+     * @param event O evento relacionado à conclusão do objetivo.
+     */
+    @EventHandler
+    public void onPlayerCompleteObjective(PlayerCompleteObjectiveEvent event) {
+        Player player = event.getPlayer();
+        PlayerQuestProgress progress = questManager.getPlayerProgress(player);
+
+        if (progress != null) {
+            progress.advanceObjective();
+            player.sendMessage("Objetivo completado! Progresso: " + progress.getProgress() + "%");
+
+            if (progress.getProgress() == 100) {
+                player.sendMessage("Parabéns! Você completou a quest '" + progress.getQuest().getName() + "'!");
+                questManager.rewardPlayer(player, progress.getQuest());
+            }
+        }
+    }
+}
