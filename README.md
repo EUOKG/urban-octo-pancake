@@ -1,12 +1,3 @@
- * Copyright (c) OkayyG and contributors
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
- * LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
- * IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
- * WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
- * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */
-
 <h1>💻 OkayG - Desenvolvedor de Plugins Minecraft</h1>
 
 <a href="https://github.com/EUOKG" target="_blank">
@@ -27,7 +18,7 @@
   <li><strong>Áreas de Interesse:</strong> Gameplay Enhancement, Economia Virtual, Mini-Games, Automação de Servidores. </li>
 </ul>
 
-<h2>🚀 Projetos Destacados</h2>
+<h2>🚀 Projetos </h2>
 
 <ul>
   <li><strong>EconomiaPlugin:</strong> Um sistema de economia virtual para Minecraft com suporte a transações e lojas.</li>
